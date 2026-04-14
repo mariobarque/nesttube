@@ -2,6 +2,14 @@
 
 A self-hosted, parental-controlled YouTube streaming system that runs entirely on a Raspberry Pi 5. It presents children with a curated, fullscreen TV interface where every search result and recommendation comes only from a parent-approved list of YouTube channels.
 
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/homepage.png)
+
+### Search Screen
+![Search Screen](screenshots/search.png)
+
 ## Why NestTube?
 
 YouTube's algorithm is designed to maximise engagement, not safety. NestTube replaces the YouTube interface entirely with a controlled experience:
