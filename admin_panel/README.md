@@ -8,6 +8,12 @@ For the TV kiosk app, see [tv_app/README.md](../tv_app/README.md). For full syst
 
 ## Screenshots
 
+### Home Screen (TV App)
+![Home Screen](../screenshots/homepage.png)
+
+### Search Screen (TV App)
+![Search Screen](../screenshots/search.png)
+
 ### Channel Management
 ![Channel Management](../screenshots/admin_channel_management.png)
 
